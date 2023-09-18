@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "id": "0f2c237b-8220-4094-a3c9-0cf2f00ff9ef",
+      "name": "Arshad",
+      "email": "jw461607@gmail.com"
+    },
+    {
+      "id": "8346d512-2ccf-40dc-a459-bb00ebbd50db",
+      "name": "Arshad",
+      "email": "thukkarajuucr@gmail.com"
+    },
+    {
+      "id": "6050bb57-5bd4-4944-a368-4d9d4b47684a",
+      "name": "makeithappen",
+      "email": "skarsu74@gmail.com"
+    },
+    {
+      "id": "87d18753-caa0-4f08-b007-1fc5c31f1a20",
+      "name": "S M ARSHAD ",
+      "email": "skarsu74@gmail.com"
+    },
+    {
+      "id": "8986b9f0-58b5-40c6-a4f1-e44e2ed5d1e3",
+      "name": "makeithappen",
+      "email": "20121A05N9@vidyanikethan.asia"
+    },
+    {
+      "id": "150dcde6-da91-4edb-bcb1-d03b0de5be7d",
+      "name": "web development",
+      "email": "jw461607@gmail.com"
+    },
+    {
+      "id": "d1fec80a-48d1-40e2-907f-8e3a314d5788",
+      "name": "Vikas",
+      "email": "vikassai345@gmail.com"
+    },
+    {
+      "id": "fef0d9b1-41e5-4097-947e-3b9fc1c8ab41",
+      "name": "Phani",
+      "email": "kpkphaneendrakumar@gmail.com"
+    }
+  ]
+}
