@@ -1,13 +1,8 @@
 {
   "contacts": [
     {
-      "id": "0f2c237b-8220-4094-a3c9-0cf2f00ff9ef",
-      "name": "Arshad",
-      "email": "jw461607@gmail.com"
-    },
-    {
       "id": "8346d512-2ccf-40dc-a459-bb00ebbd50db",
-      "name": "Arshad",
+      "name": "Arshad s",
       "email": "thukkarajuucr@gmail.com"
     },
     {
@@ -39,6 +34,11 @@
       "id": "fef0d9b1-41e5-4097-947e-3b9fc1c8ab41",
       "name": "Phani",
       "email": "kpkphaneendrakumar@gmail.com"
+    },
+    {
+      "id": "c3a9ef71-9099-4c76-b432-d65a53ca37e1",
+      "name": "Arshad",
+      "email": "skarsu74@gmail.com"
     }
   ]
 }
